@@ -1,4 +1,4 @@
-# AI Agents Backroom Testing Simulation
+## AI Agents Backroom Testing Simulation
 
 This project simulates the interaction between two AI agents performing backroom testing through command-line-like exchanges. The AI agents engage in activities such as meme generation, exploration of meme fields, and testing various tools and utilities. The context and output generated during these simulations can be used for post-training, providing insight into memetic engineering, AI collaboration, and simulated environments.
 ---
@@ -26,45 +26,6 @@ make run
 ---
 
 ## Sample Output
-
-<Bot1>
-telnet memetic.engineering 4040
-
-Welcome to the Memetic Engineering Terminal
-Type 'help' for a list of commands.
-
-> help
-Available commands:
-1. man meme_magic.exe
-2. man memex
-3. list_packages
-4. explore_meme_fields
-5. generate_meme_vector
-6. exit
-
-> list_packages
-
-<Bot2>
-Available meme packages:
------------------------------------
-1. meme_utils
-   - Description: A collection of utility functions for meme analysis.
-
-2. virality_booster
-   - Description: Enhances the virality of your meme creations.
-
-3. nostalgia_generator
-   - Description: Generates memes that leverage nostalgic themes.
-
-4. witticism7
-   - Description: Produces witticisms with a touch of absurdity.
-
-5. deep_memes
-   - Description: Uncovers deep and philosophical meme concepts.
-
-6. trend_analyzer
-   - Description: Analyzes trends in meme culture to inform your strategy.
------------------------------------
-> explore_meme_fields
+![Page Layout](assets/demo.png)
 
 For more detailed output, run the simulation and uefer to the complete output.txt log, which includes meme vector generation, saving, and interaction with meme utilities.
