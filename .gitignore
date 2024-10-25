@@ -1,0 +1,28 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+
+# API keys and secrets
+*.env
+oai-api-key.lic
+
+# Output files
+*.txt
+
+# macOS specific files
+.DS_Store
+
+# Ignore the archive files
+*.zip
+*.tar.gz
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# IDE configurations
+.vscode/
+.idea/
